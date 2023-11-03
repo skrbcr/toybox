@@ -82,7 +82,6 @@ int main(int argc, char* argv[]) {
     for (int t = 1; t < duration; ++t) {
         stemp = ublas::prod(J, s);
         for (int i = 0; i < n; ++i) s(i) = sgn(stemp(i));
-        for (int i = 0; i < n; ++i) image.at<unsigned char>(i / image.rows, i % image.rows) = (s[i] == 1 ? (unsigned char)255 : (unsigned char)0);
         make_image(imgOut, s, image.rows, image.cols);
         output << imgOut;
         if (bOutImage) cv::imwrite(strOutImgDir + to_string(t) + ".png", imgOut);
