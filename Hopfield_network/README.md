@@ -38,7 +38,7 @@ You can learn the meaning of the args by running `interaction` and `movie` witho
 
 4. Watch the output movie
 
-![Result movie](./p1000_n30_github.mp4)
+https://github.com/skrbcr/toybox/assets/90087433/b0abb059-5cca-4658-b695-9a718e8a0047
 
 [YouTube version](https://youtu.be/UE2mZNWXd-A)
 
