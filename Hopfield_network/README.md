@@ -1,5 +1,7 @@
 # Hopfield network
 
+日本語の説明は[こちら](./README_ja.md)です。
+
 ## What is Hopfield network
 Hopfield network, a.k.a. associative memory is a kind of artificial intelligence. This neural network can memorize data patterns and when one pattern with noise is given, it may recall the original pattern. Whether the network succeeds to recall is depends on the number of neurons, the number of patterns and noise ratio.
 
