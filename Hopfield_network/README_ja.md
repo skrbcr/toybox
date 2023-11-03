@@ -14,7 +14,7 @@ Hopfield network（ホップフィールド・ネットワーク）またの名�
 
 1. 記憶する画像を用意
 
-![Prepared image example](./github.png "github.png")
+![準備する画像の例](./github.png "github.png")
 
 本プログラムで人間が用意する画像の枚数は1枚です。残りはプログラムがランダムに生成します。画像サイズが大きすぎるとプログラムの実行に時間が掛かります。上のサンプルは 100x100 の画像です。もしうまく読み込めない場合は白黒二値画像を使うと良いかもしれません。
 
@@ -38,9 +38,11 @@ Hopfield network（ホップフィールド・ネットワーク）またの名�
 
 4. 出力された動画をみる
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UE2mZNWXd-A?si=UPaRYwNLRRhLeZW9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![結果の動画](./p1000_n30_github.mp4)
 
-ノイズが徐々に除去されています。
+[YouTube 版](https://youtu.be/UE2mZNWXd-A)
+
+完璧ではないですが、ノイズが徐々に除去されています。
 
 ## ビルド方法
 

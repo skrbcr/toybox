@@ -38,9 +38,11 @@ You can learn the meaning of the args by running `interaction` and `movie` witho
 
 4. Watch the output movie
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UE2mZNWXd-A?si=UPaRYwNLRRhLeZW9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+![Result movie](./p1000_n30_github.mp4)
 
-Noise is removed gradually.
+[YouTube version](https://youtu.be/UE2mZNWXd-A)
+
+Not perfectly, but noise is removed gradually.
 
 ## How to build
 
