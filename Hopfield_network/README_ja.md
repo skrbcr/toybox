@@ -38,7 +38,7 @@ Hopfield network（ホップフィールド・ネットワーク）またの名�
 
 4. 出力された動画をみる
 
-![結果の動画](./p1000_n30_github.mp4)
+https://github.com/skrbcr/toybox/assets/90087433/b0abb059-5cca-4658-b695-9a718e8a0047
 
 [YouTube 版](https://youtu.be/UE2mZNWXd-A)
 
