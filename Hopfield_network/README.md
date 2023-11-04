@@ -34,7 +34,7 @@ This command create trained neural network data file `p1000_github.int` with 100
 ./Release/movie p1000_github.int github.png 30 10 p1000_n30_github.avi 1
 ```
 
-This command create a movie `p1000_n30_github.avi` that shows the process of recalling. The program gives the neural network `github.png` with 30% noise. The neural network try to recall original image `github.png`. The image that the AI is recalling changes time by time and 10 steps after, the program stops the AI.
+This command create a movie `p1000_n30_github.avi` that shows the process of recalling. The program gives the neural network `github.png` with 30% noise. The neural network try recalling original image `github.png`. The image that the AI is recalling changes time by time and 10 steps after, the program stops the AI.
 
 You can learn the meaning of the args by running `interaction` and `movie` without args.
 
@@ -48,7 +48,7 @@ Not perfectly, but noise is removed gradually.
 
 ## How to build
 
-To build and run, you have to install [Boost C++ Libraries](https://www.boost.org/) and [OpenCV](https://opencv.org/). You may Install OpenCV with FFmpeg.
+To build and run, you have to install [Boost C++ Libraries](https://www.boost.org/), [zlib](https://www.zlib.net/) and [OpenCV](https://opencv.org/). You may Install OpenCV with FFmpeg.
 
 ```bash
 cmake -DCMAKE_BUILD_TYPE=Release -S . -B Release
