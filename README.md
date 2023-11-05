@@ -4,3 +4,5 @@
 
 I put some programs (currently only one) that I make for fun. Although I do not ensure that you can run these, if you get interested in, play with them!
 
+- [Hopfield_network](https://github.com/skrbcr/Hopfield_network): ホップフィールド・モデルは AI の一種です。ちょっとした実験ができます。Hopfield network is a kind of AI. You can conduct a small expriment of it.
+
