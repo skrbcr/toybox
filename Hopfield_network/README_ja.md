@@ -46,7 +46,7 @@ https://github.com/skrbcr/toybox/assets/90087433/b0abb059-5cca-4658-b695-9a718e8
 
 ## ビルド方法
 
-ビルド・実行をするには、[Boost C++ Libraries](https://www.boost.org/) と [OpenCV](https://opencv.org/) をインストールする必要があります。OpenCV は FFmpeg と共にインストールする必要があるかもしれません。
+ビルド・実行をするには、[Boost C++ Libraries](https://www.boost.org/)、[zlib](https://www.zlib.net/) と [OpenCV](https://opencv.org/) をインストールする必要があります。OpenCV は FFmpeg と共にインストールする必要があるかもしれません。
 
 ```bash
 cmake -DCMAKE_BUILD_TYPE=Release -S . -B Release
