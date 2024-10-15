@@ -4,5 +4,6 @@
 
 I put some programs (currently only one) that I make for fun. Although I do not ensure that you can run these, if you get interested in, play with them!
 
-- [Hopfield_network](https://github.com/skrbcr/Hopfield_network): ホップフィールド・モデルは AI の一種です。ちょっとした実験ができます。Hopfield network is a kind of AI. You can conduct a small expriment of it.
+- [interferometry_clean_sim](https://colab.research.google.com/github/peaceiris/emoji-ime-dictionary/blob/master/generate.ipynb)：Simulation of clean algorithm for interferometry. I created this project to understand my research further. / 電波干渉計のクリーンアルゴリズムのシミュレーションです。研究の理解を深めたいなあと思い、作りました。
 - [Hopfield_network_gpu](https://github.com/skrbcr/Hopfield_network_gpu): Hopfield_network の GPU 版です。コードの刷新も行いました。GPU version of Hopfield_network. I also renewed codes.
+- [Hopfield_network](https://github.com/skrbcr/Hopfield_network): ホップフィールド・モデルは AI の一種です。ちょっとした実験ができます。Hopfield network is a kind of AI. You can conduct a small expriment of it.
